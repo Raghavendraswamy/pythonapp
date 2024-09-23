@@ -1,0 +1,3 @@
+https://www.sonarsource.com/learn/integrating-quality-gates-ci-cd-pipeline/
+
+
